@@ -25,6 +25,9 @@ In addition to classification, the project employs topic modeling techniques to 
 </p>
 
 - **Visual Insights:** The project includes visualizations of the topic distributions, which can be used by NGOs and mental health professionals to craft targeted intervention strategies.
+<p align="center">
+  <img src="images/dashboard.png" alt="Topic Modelling Dashboard" title="Dashboard" />
+</p>
 
 ## Dataset
 
