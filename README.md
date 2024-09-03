@@ -17,7 +17,13 @@ In addition to classification, the project employs topic modeling techniques to 
 - **Classification of Suicidal Language:** The machine learning models are trained to identify and classify posts that exhibit suicidal ideation.
 - **Topic Modeling:** The topic modeling techniques provide insights into the common themes and discussions related to suicide, helping stakeholders to understand the context of the conversations.
 - **Web Application:** A web-based tool is developed to allow users to submit text for analysis. The tool predicts whether the text indicates suicidal ideation and provides relevant resources if necessary.
-![Demo of the Web Application](images/Picture 1.png)
+
+<p align="center">
+  <img src="images/webapp_demo1.png" alt="Demo of Web Application" title="Web Application Demo" />
+  <img src="images/webapp_demo2.png" alt="Another Demo Image" title="Another Web Application Demo" />
+  <img src="images/webapp_demo3.png" alt="Third Demo Image" title="Third Web Application Demo" />
+</p>
+
 - **Visual Insights:** The project includes visualizations of the topic distributions, which can be used by NGOs and mental health professionals to craft targeted intervention strategies.
 
 ## Dataset
