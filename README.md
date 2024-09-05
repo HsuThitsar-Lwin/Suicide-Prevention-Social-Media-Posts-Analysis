@@ -24,7 +24,7 @@ In addition to classification, the project employs topic modeling techniques to 
   <img src="images/webapp_demo3.png" alt="Third Demo Image" title="Third Web Application Demo" />
 </p>
 
-- **Visual Insights:** The project includes visualizations of the topic distributions, which can be used by NGOs and mental health professionals to craft targeted intervention strategies.
+- **Interactive Dashboard:** The project includes an interactive dashboard showcasing the topic distributions, implemented using Plotly. It aims to provide NGOs and mental health professionals with insights to craft targeted intervention strategies.
 <p align="center">
   <img src="images/dashboard.png" alt="Topic Modelling Dashboard" title="Dashboard" />
 </p>
